@@ -1,0 +1,16 @@
+body {
+    background-color: #eee;
+}
+a {
+    background-color: gray;
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+    padding: 20px 40px;
+    display: block;
+    width: fit-content;
+    margin: 50px auto;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 20px;
+}
